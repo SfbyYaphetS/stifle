@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.14">
+	<Item id="28a2bc6d-3d09-4918-beed-421927f032f3">
+		<Name>Агрессия</Name>
+		<Code>000000005</Code>
+		<Description>Агрессия</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="e09949d4-7877-4761-8ce2-2ec569ddb138">
+		<Name>Дружелюбие</Name>
+		<Code>000000004</Code>
+		<Description>Дружелюбие</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="1b84411c-be83-42f6-b91c-82151635aa85">
+		<Name>Душение</Name>
+		<Code>000000001</Code>
+		<Description>Душение</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="6e949ea9-3fe1-4229-b1de-62ba4097d098">
+		<Name>ПорталВПолитику</Name>
+		<Code>000000003</Code>
+		<Description>Портал в политику</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="d5255f40-236e-41e8-ad49-7cff82a956e2">
+		<Name>ЦенностьВЧате</Name>
+		<Code>000000002</Code>
+		<Description>Ценность в чате</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>

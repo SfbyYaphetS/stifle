@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.14">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.ОстаткиПоДушнилам" id="df5aa2af-156d-4740-a321-cd0369a6c82c" configVersion="0290be440688b740a7e27497ad8cd81100000000">
+			<Metadata name="AccumulationRegister.ОстаткиПоДушнилам.Attribute.Комментарий" id="0cecd5ee-6041-486c-9ad2-58af3fffdfea"/>
+			<Metadata name="AccumulationRegister.ОстаткиПоДушнилам.Resource.Балл" id="12f59c44-bb25-4e44-9c31-8b1490e0a80c"/>
+			<Metadata name="AccumulationRegister.ОстаткиПоДушнилам.Dimension.Свойство" id="33329f6b-584d-4975-a430-dfa1804749ce"/>
+			<Metadata name="AccumulationRegister.ОстаткиПоДушнилам.Dimension.ФизЛицо" id="5bb2df20-b56d-44f5-a086-c1394e8003aa"/>
+		</Metadata>
+		<Metadata name="Catalog.ВидНоменклатуры" id="decfe141-d236-4c61-90ab-b01d9898618e" configVersion="a7643c25f773c240887382e9325c485700000000"/>
+		<Metadata name="Catalog.Номенклатура" id="6d168be5-712d-4acd-b6be-a36891fdb0df" configVersion="3b2600462675fa45a0143597434686a000000000">
+			<Metadata name="Catalog.Номенклатура.Attribute.НаимнованиеПолное" id="2e2bcd3f-f06d-42b0-a172-32647e3ea82c"/>
+		</Metadata>
+		<Metadata name="Catalog.Номенклатура.ManagerModule" id="6d168be5-712d-4acd-b6be-a36891fdb0df.3" configVersion="01c13e03c068b5468f6c119ceb27b1df00000000"/>
+		<Metadata name="Catalog.Номенклатура.ObjectModule" id="6d168be5-712d-4acd-b6be-a36891fdb0df.0" configVersion="961eae9c3a8698479209361e2193412a00000000"/>
+		<Metadata name="Catalog.СвойстваФизЛица" id="26165502-1e1c-4be4-abe8-831e2889d004" configVersion="744396127b908841b3baccf26e3642ba00000000"/>
+		<Metadata name="Catalog.СвойстваФизЛица.Predefined" id="26165502-1e1c-4be4-abe8-831e2889d004.1c" configVersion="eb7b6da15c2bca4eb2421b7d36c2ae0300000000"/>
+		<Metadata name="Catalog.СвойствоШутки" id="8a28b66e-a435-468e-8c6a-762ee271a15b" configVersion="e23527fa17dc5547b92c3de46851d0de00000000"/>
+		<Metadata name="Catalog.ФизическиеЛица" id="57641034-b8d2-4201-a09a-32b543f831d9" configVersion="3b6c0dee6c538344b94e42a49a6efac000000000">
+			<Metadata name="Catalog.ФизическиеЛица.Attribute.Пол" id="ae081904-2a04-4477-ae5c-f4f1127facb4"/>
+			<Metadata name="Catalog.ФизическиеЛица.Attribute.ФИОПолностью" id="e5ac97aa-31e8-4bd5-9f37-56084ae19ba1"/>
+		</Metadata>
+		<Metadata name="CommonForm.ФормаКонстант" id="fbc75743-8135-4baf-8fb7-043a6661804b" configVersion="ea9ea3b487ca3f4383b65dc94fdda1b000000000"/>
+		<Metadata name="CommonForm.ФормаКонстант.Form" id="fbc75743-8135-4baf-8fb7-043a6661804b.0" configVersion="244a3b478d6ff94e8a7f4fc26035d9b200000000"/>
+		<Metadata name="CommonModule.JSON" id="00d4b7c5-a405-4eeb-8d69-b61645b91937" configVersion="6d04dd7268e2654fa84e8938b90c2bb900000000"/>
+		<Metadata name="CommonModule.Телеграмм" id="b62b0e70-790b-4b14-af28-bd654cc8d7fd" configVersion="251a5ed3114b814faf7b564f8721545e00000000"/>
+		<Metadata name="CommonModule.Телеграмм.Module" id="b62b0e70-790b-4b14-af28-bd654cc8d7fd.0" configVersion="38d5cb06096e894a948895fb2232122200000000"/>
+		<Metadata name="Configuration.Конфигурация" id="4cc73af6-d28a-4642-a5d0-7557ce4bb66f" configVersion="455ae3f103282542896cafd00ffa63a800000000"/>
+		<Metadata name="Constant.ДатаИмененей" id="3d389761-5607-4413-bb67-d940ba90bb81" configVersion="362de97d4e38f24c92eec9b22a85857400000000"/>
+		<Metadata name="Constant.ИдентификаторГлавнойГруппы" id="f280dab8-0c22-4854-9aa7-58b884096e81" configVersion="e5e420c084987f4d8097ad5630650c9800000000"/>
+		<Metadata name="Constant.КоличествоСимволовВИмени" id="7ab67985-9fdd-45df-a89b-15dec4aaae7e" configVersion="3df44e541722054a830c883c0aa72d2200000000"/>
+		<Metadata name="Constant.ПорядокИспользованияСобытий" id="88d4ff01-cbb7-427e-a92c-9db185fe2e2c" configVersion="0dae5f669b41f94092cf203dcaf6ae3400000000"/>
+		<Metadata name="Constant.ПоследнийАйдиСообщения" id="fc567b5b-4969-4ea6-a478-b8a77c981c82" configVersion="7cd64f0d12bff1488b0d45d7e2c0f91200000000"/>
+		<Metadata name="Constant.ТокенБота" id="7b42b36d-763b-4448-a79f-e6901d2ac660" configVersion="380277507ca1c3439b8e5f95726e222700000000"/>
+		<Metadata name="DefinedType.НоменклатураЧисло" id="4b188ff2-08ae-400c-908c-197bf0f102ff" configVersion="f49812e35973c44f8e47a29b17f747a600000000"/>
+		<Metadata name="Document.ДобавитьБаллы" id="730065f3-58c9-44a3-a4aa-541c20c6d465" configVersion="c93de54f06736c4ea7ed2b845cd32e6a00000000">
+			<Metadata name="Document.ДобавитьБаллы.TabularSection.НачислениеБаллов.Attribute.Свойство" id="45759262-fd1b-4e0b-b809-d9657c426b3c"/>
+			<Metadata name="Document.ДобавитьБаллы.TabularSection.НачислениеБаллов.Attribute.Балл" id="5188fd45-711a-41c4-9c5b-99b785e647d5"/>
+			<Metadata name="Document.ДобавитьБаллы.Attribute.Комментарий" id="8fe52af8-40aa-47a3-af7e-23d4d4d0e36f"/>
+			<Metadata name="Document.ДобавитьБаллы.TabularSection.НачислениеБаллов" id="9af38a8a-06f6-4607-a8b7-0befb9a883b9"/>
+			<Metadata name="Document.ДобавитьБаллы.TabularSection.НачислениеБаллов.Attribute.ФизЛицо" id="f806185d-416e-4a02-9ed8-f3a1efe78cbc"/>
+		</Metadata>
+		<Metadata name="Document.ДобавитьБаллы.Form.ФормаДокумента" id="0971c0d7-2f54-49dd-b370-f47554e94515" configVersion="9678ef9d427fac49bc6c52560055619600000000"/>
+		<Metadata name="Document.ДобавитьБаллы.Form.ФормаДокумента.Form" id="0971c0d7-2f54-49dd-b370-f47554e94515.0" configVersion="810d01ac7a446541a41dfadf71d0554800000000"/>
+		<Metadata name="Document.ДобавитьБаллы.ObjectModule" id="730065f3-58c9-44a3-a4aa-541c20c6d465.0" configVersion="906e39f5944b97408cbd12c820d6092300000000"/>
+		<Metadata name="Document.СписаниеБаллов" id="c0385528-8780-4a89-8d74-b7d8e9180f90" configVersion="1d843fdc1c609e42a3e584cca856643c00000000">
+			<Metadata name="Document.СписаниеБаллов.TabularSection.НачислениеБаллов.Attribute.ФизЛицо" id="0f83940e-df00-4ccc-a070-ef8db461a995"/>
+			<Metadata name="Document.СписаниеБаллов.Attribute.Комментарий" id="368c7131-ee52-487e-84ae-ca151ef3261d"/>
+			<Metadata name="Document.СписаниеБаллов.TabularSection.НачислениеБаллов.Attribute.Свойство" id="4485e146-61f7-468e-a50e-39e4af0760ea"/>
+			<Metadata name="Document.СписаниеБаллов.TabularSection.НачислениеБаллов.Attribute.Балл" id="572726c7-ab0e-4e74-8ed5-396ffb9bdc3b"/>
+			<Metadata name="Document.СписаниеБаллов.TabularSection.НачислениеБаллов" id="d2e9de60-5b64-41ba-a837-31302dc051be"/>
+		</Metadata>
+		<Metadata name="Document.СписаниеБаллов.Form.ФормаДокумента" id="96899746-be9a-424c-acdf-b02933264622" configVersion="3254e99eb10b2349b9b9d113758d439d00000000"/>
+		<Metadata name="Document.СписаниеБаллов.Form.ФормаДокумента.Form" id="96899746-be9a-424c-acdf-b02933264622.0" configVersion="15375449dc5464449989cdd0040daad900000000"/>
+		<Metadata name="Document.СписаниеБаллов.Help" id="c0385528-8780-4a89-8d74-b7d8e9180f90.1" configVersion="30e43cf1bf2473428b40f2b13504688c00000000"/>
+		<Metadata name="Document.СписаниеБаллов.ManagerModule" id="c0385528-8780-4a89-8d74-b7d8e9180f90.2" configVersion="a50e55f8f2165b45a309de7fa4277d1600000000"/>
+		<Metadata name="Document.СписаниеБаллов.ObjectModule" id="c0385528-8780-4a89-8d74-b7d8e9180f90.0" configVersion="da77d7662310f8419396fce11d0f3c7900000000"/>
+		<Metadata name="Enum.Пол" id="6cb8cbb3-61c1-4749-9c10-83892f120592" configVersion="ea3ae75bf3ff084588a61b884952266d00000000">
+			<Metadata name="Enum.Пол.EnumValue.Мужской" id="007c6399-e5dc-4dd9-9ff9-b534b50fdac1"/>
+			<Metadata name="Enum.Пол.EnumValue.Они" id="6c1b2356-c397-471f-9b3e-fab8f40afb1a"/>
+			<Metadata name="Enum.Пол.EnumValue.Женский" id="db7ff300-68ba-4940-9add-66173626d377"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ДанныеДляТестирования" id="1554395d-8ba7-4dc2-bf2e-00f4474e8ce8" configVersion="07f3525729e3364f96d8c515a4963b4b00000000">
+			<Metadata name="InformationRegister.ДанныеДляТестирования.Dimension.Номенклатура" id="58bb199a-320a-4ca8-8799-83f911160cce"/>
+			<Metadata name="InformationRegister.ДанныеДляТестирования.Resource.Сумма" id="a763262c-da61-44f0-b8a5-30419bb02db4"/>
+			<Metadata name="InformationRegister.ДанныеДляТестирования.Dimension.Количество" id="bb50cca3-49de-4fb2-a7a3-7e3baa7ea50b"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ИдентификаторыЧатов" id="3b05cf07-2f51-44f0-a185-49526dcdee4d" configVersion="11e10b7702b9b848a275fc6fd8af30e700000000">
+			<Metadata name="InformationRegister.ИдентификаторыЧатов.Dimension.Идентификатор" id="50ada5af-3fb6-43a2-a0d2-3c74759a200b"/>
+		</Metadata>
+		<Metadata name="InformationRegister.Шутки" id="7d51ded2-386b-41f0-9295-b5d62d829fb5" configVersion="a248bc2a78272a4db681e48263845b8a00000000">
+			<Metadata name="InformationRegister.Шутки.Dimension.ФизЛицо" id="2fae71df-4b9a-4e18-9e53-2a67a0c36d6e"/>
+			<Metadata name="InformationRegister.Шутки.Dimension.Свойство" id="f958f077-d6be-43f6-a882-77d4bfafac33"/>
+			<Metadata name="InformationRegister.Шутки.Resource.Содержимое" id="fec2f2a6-52db-4541-97be-01f7b6642b60"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="5b695c09-f287-4540-9c7b-b06bc5dd6380" configVersion="84d801908de13a4aa417a4aded3ee53900000000"/>
+		<Metadata name="Report.ВедомостьДушнил" id="1be60d2f-cabe-4276-b85e-d3a8aa01a3c0" configVersion="6265157c8614cd438205a0b02c23b91500000000"/>
+		<Metadata name="Report.ВедомостьДушнил.Template.ОсновнаяСхемаКомпоновкиДанных" id="6ea090ff-556f-4858-8904-ae3407a7e99c" configVersion="2934719b06ffd848a2bc5f9c5480643300000000"/>
+		<Metadata name="Report.ВедомостьДушнил.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="6ea090ff-556f-4858-8904-ae3407a7e99c.0" configVersion="6cc204ea46cf6543992753609106235100000000"/>
+		<Metadata name="Role.Админ" id="afebffc9-5288-4fba-b923-341128b38a8c" configVersion="2ac0070ff1107848aac0ed737dc0abf200000000"/>
+		<Metadata name="Role.Админ.Rights" id="afebffc9-5288-4fba-b923-341128b38a8c.0" configVersion="879e222c3f1e2e44baa48711e84ef13300000000"/>
+		<Metadata name="ScheduledJob.ВыслатьИнфоВТелеграмм" id="6a664387-3be4-4c42-b60d-d3e79ebc3beb" configVersion="23991779155fcc44910144a0589e945600000000"/>
+		<Metadata name="ScheduledJob.ВыслатьИнфоВТелеграмм.Schedule" id="6a664387-3be4-4c42-b60d-d3e79ebc3beb.0" configVersion="73daf6c182ac4c4b87aa1816e9b5d33c00000000"/>
+		<Metadata name="ScheduledJob.ОтправитьИзмененияВТелеграмм" id="b0e647b3-2983-4428-8888-e806290c5d08" configVersion="6ce37bff5626954cba70a93a80358cfe00000000"/>
+		<Metadata name="ScheduledJob.ОтправитьИзмененияВТелеграмм.Schedule" id="b0e647b3-2983-4428-8888-e806290c5d08.0" configVersion="1a8b21ad8930b14099a098c381d4f40100000000"/>
+		<Metadata name="Subsystem.ДушнилыЕбаные" id="5326bb56-9ecf-4b5d-b1b6-3985a3c5fbc5" configVersion="0dd770b35239494aba4361011cdd74a500000000"/>
+		<Metadata name="Subsystem.Основная" id="414323c7-5e6b-4005-995e-1a0550fd7942" configVersion="fafdbef1cdf3c64bbd5f22d3937066ed00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
