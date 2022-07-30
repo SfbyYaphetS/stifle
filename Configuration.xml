@@ -217,6 +217,7 @@
 			<CommonModule>JSON</CommonModule>
 			<ScheduledJob>ВыслатьИнфоВТелеграмм</ScheduledJob>
 			<ScheduledJob>ОтправитьИзмененияВТелеграмм</ScheduledJob>
+			<ScheduledJob>ПрочитатьПоследниеСообщения</ScheduledJob>
 			<DefinedType>НоменклатураЧисло</DefinedType>
 			<Constant>ПорядокИспользованияСобытий</Constant>
 			<Constant>ТокенБота</Constant>
@@ -224,6 +225,7 @@
 			<Constant>КоличествоСимволовВИмени</Constant>
 			<Constant>ДатаИмененей</Constant>
 			<Constant>ИдентификаторГлавнойГруппы</Constant>
+			<Constant>АйдиПоследнегоСообщения</Constant>
 			<CommonForm>ФормаКонстант</CommonForm>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>ВидНоменклатуры</Catalog>
@@ -237,6 +239,7 @@
 			<InformationRegister>ДанныеДляТестирования</InformationRegister>
 			<InformationRegister>ИдентификаторыЧатов</InformationRegister>
 			<InformationRegister>Шутки</InformationRegister>
+			<InformationRegister>ТегиВаннессы</InformationRegister>
 			<AccumulationRegister>ОстаткиПоДушнилам</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
