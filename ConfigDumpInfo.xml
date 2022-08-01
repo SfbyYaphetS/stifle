@@ -23,8 +23,8 @@
 		<Metadata name="CommonForm.ФормаКонстант" id="fbc75743-8135-4baf-8fb7-043a6661804b" configVersion="ea9ea3b487ca3f4383b65dc94fdda1b000000000"/>
 		<Metadata name="CommonForm.ФормаКонстант.Form" id="fbc75743-8135-4baf-8fb7-043a6661804b.0" configVersion="244a3b478d6ff94e8a7f4fc26035d9b200000000"/>
 		<Metadata name="CommonModule.JSON" id="00d4b7c5-a405-4eeb-8d69-b61645b91937" configVersion="6d04dd7268e2654fa84e8938b90c2bb900000000"/>
-		<Metadata name="CommonModule.Телеграмм" id="b62b0e70-790b-4b14-af28-bd654cc8d7fd" configVersion="a8c77e8b43685749b6fea402b3f3f95100000000"/>
-		<Metadata name="CommonModule.Телеграмм.Module" id="b62b0e70-790b-4b14-af28-bd654cc8d7fd.0" configVersion="af52b4f38b3f6d4f91357d53ff7a26b700000000"/>
+		<Metadata name="CommonModule.Телеграмм" id="b62b0e70-790b-4b14-af28-bd654cc8d7fd" configVersion="004dc1fe567af14fbd155ce6172d38bd00000000"/>
+		<Metadata name="CommonModule.Телеграмм.Module" id="b62b0e70-790b-4b14-af28-bd654cc8d7fd.0" configVersion="33f901def13d1043a0b0a6eeb1b03f4e00000000"/>
 		<Metadata name="Configuration.Конфигурация" id="4cc73af6-d28a-4642-a5d0-7557ce4bb66f" configVersion="18643074a180554590cd6e87f9c9274a00000000"/>
 		<Metadata name="Constant.АйдиПоследнегоСообщения" id="177ffdb9-69ad-49fb-a19f-16ece5b05548" configVersion="f2ba51cbde9d1845859cdb0cd2ba038c00000000"/>
 		<Metadata name="Constant.ДатаИмененей" id="3d389761-5607-4413-bb67-d940ba90bb81" configVersion="362de97d4e38f24c92eec9b22a85857400000000"/>
@@ -86,8 +86,8 @@
 		<Metadata name="ScheduledJob.ВыслатьИнфоВТелеграмм.Schedule" id="6a664387-3be4-4c42-b60d-d3e79ebc3beb.0" configVersion="73daf6c182ac4c4b87aa1816e9b5d33c00000000"/>
 		<Metadata name="ScheduledJob.ОтправитьИзмененияВТелеграмм" id="b0e647b3-2983-4428-8888-e806290c5d08" configVersion="6ce37bff5626954cba70a93a80358cfe00000000"/>
 		<Metadata name="ScheduledJob.ОтправитьИзмененияВТелеграмм.Schedule" id="b0e647b3-2983-4428-8888-e806290c5d08.0" configVersion="1a8b21ad8930b14099a098c381d4f40100000000"/>
-		<Metadata name="ScheduledJob.ПрочитатьПоследниеСообщения" id="d01dc70d-98b4-4d27-9da1-5e83dd8c74ee" configVersion="b279ccfbe59c3b4080387f903a684ca600000000"/>
-		<Metadata name="ScheduledJob.ПрочитатьПоследниеСообщения.Schedule" id="d01dc70d-98b4-4d27-9da1-5e83dd8c74ee.0" configVersion="355acf327b42da429abb13592ba7823600000000"/>
+		<Metadata name="ScheduledJob.ПрочитатьПоследниеСообщения" id="d01dc70d-98b4-4d27-9da1-5e83dd8c74ee" configVersion="545ffe33f9f8b04bb37a609e097a454c00000000"/>
+		<Metadata name="ScheduledJob.ПрочитатьПоследниеСообщения.Schedule" id="d01dc70d-98b4-4d27-9da1-5e83dd8c74ee.0" configVersion="5901d90ecf3c3d4686aba4cf1e5d350c00000000"/>
 		<Metadata name="Subsystem.ДушнилыЕбаные" id="5326bb56-9ecf-4b5d-b1b6-3985a3c5fbc5" configVersion="205c55a4e5689b43b5a9cac3edadd13a00000000"/>
 		<Metadata name="Subsystem.Основная" id="414323c7-5e6b-4005-995e-1a0550fd7942" configVersion="fafdbef1cdf3c64bbd5f22d3937066ed00000000"/>
 	</ConfigVersions>
