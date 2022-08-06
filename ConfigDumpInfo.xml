@@ -23,8 +23,9 @@
 		<Metadata name="CommonForm.ФормаКонстант" id="fbc75743-8135-4baf-8fb7-043a6661804b" configVersion="ea9ea3b487ca3f4383b65dc94fdda1b000000000"/>
 		<Metadata name="CommonForm.ФормаКонстант.Form" id="fbc75743-8135-4baf-8fb7-043a6661804b.0" configVersion="244a3b478d6ff94e8a7f4fc26035d9b200000000"/>
 		<Metadata name="CommonModule.JSON" id="00d4b7c5-a405-4eeb-8d69-b61645b91937" configVersion="6d04dd7268e2654fa84e8938b90c2bb900000000"/>
-		<Metadata name="CommonModule.Телеграмм" id="b62b0e70-790b-4b14-af28-bd654cc8d7fd" configVersion="004dc1fe567af14fbd155ce6172d38bd00000000"/>
-		<Metadata name="CommonModule.Телеграмм.Module" id="b62b0e70-790b-4b14-af28-bd654cc8d7fd.0" configVersion="33f901def13d1043a0b0a6eeb1b03f4e00000000"/>
+		<Metadata name="CommonModule.Телеграмм" id="b62b0e70-790b-4b14-af28-bd654cc8d7fd" configVersion="1eab6fe29518434d88c436ee6d45e96b00000000"/>
+		<Metadata name="CommonModule.Телеграмм.Module" id="b62b0e70-790b-4b14-af28-bd654cc8d7fd.0" configVersion="ea7bdb80d76e224099354fd3f63fae0700000000"/>
+
 		<Metadata name="Configuration.Конфигурация" id="4cc73af6-d28a-4642-a5d0-7557ce4bb66f" configVersion="18643074a180554590cd6e87f9c9274a00000000"/>
 		<Metadata name="Constant.АйдиПоследнегоСообщения" id="177ffdb9-69ad-49fb-a19f-16ece5b05548" configVersion="f2ba51cbde9d1845859cdb0cd2ba038c00000000"/>
 		<Metadata name="Constant.ДатаИмененей" id="3d389761-5607-4413-bb67-d940ba90bb81" configVersion="362de97d4e38f24c92eec9b22a85857400000000"/>
@@ -73,8 +74,9 @@
 			<Metadata name="InformationRegister.ТегиВаннессы.Resource.Ответ" id="5a893818-39ea-4c1e-a93c-7228bfa40b48"/>
 			<Metadata name="InformationRegister.ТегиВаннессы.Dimension.Тег" id="f7cbce63-1096-4dfd-9c3e-cda9e5489d11"/>
 		</Metadata>
-		<Metadata name="InformationRegister.Шутки" id="7d51ded2-386b-41f0-9295-b5d62d829fb5" configVersion="65b924c657e6d7479e29f0d918b07d6d00000000">
+		<Metadata name="InformationRegister.Шутки" id="7d51ded2-386b-41f0-9295-b5d62d829fb5" configVersion="b593082e244fea469f03522c2057a25700000000">
 			<Metadata name="InformationRegister.Шутки.Resource.ТекстШутки" id="b915eda3-ba42-46a5-a800-063df57a3e61"/>
+			<Metadata name="InformationRegister.Шутки.Dimension.НазваниеШутки" id="d95ba0b7-f6c1-4db1-9c7d-c5880cc21961"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="5b695c09-f287-4540-9c7b-b06bc5dd6380" configVersion="84d801908de13a4aa417a4aded3ee53900000000"/>
 		<Metadata name="Report.ВедомостьДушнил" id="1be60d2f-cabe-4276-b85e-d3a8aa01a3c0" configVersion="6265157c8614cd438205a0b02c23b91500000000"/>
