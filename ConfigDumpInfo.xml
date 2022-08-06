@@ -23,8 +23,8 @@
 		<Metadata name="CommonForm.ФормаКонстант" id="fbc75743-8135-4baf-8fb7-043a6661804b" configVersion="86dac72f183c934eb60baf391191701b00000000"/>
 		<Metadata name="CommonForm.ФормаКонстант.Form" id="fbc75743-8135-4baf-8fb7-043a6661804b.0" configVersion="1103ff88dbde494f8f1fb3849e53f76100000000"/>
 		<Metadata name="CommonModule.JSON" id="00d4b7c5-a405-4eeb-8d69-b61645b91937" configVersion="4c5cae9feb779f4cbdf60669bf6dd58700000000"/>
-		<Metadata name="CommonModule.Телеграмм" id="b62b0e70-790b-4b14-af28-bd654cc8d7fd" configVersion="4a6b7fe9d8bb274c81fcac0abe754e7a00000000"/>
-		<Metadata name="CommonModule.Телеграмм.Module" id="b62b0e70-790b-4b14-af28-bd654cc8d7fd.0" configVersion="370b51875610874ea973923c50627da900000000"/>
+		<Metadata name="CommonModule.Телеграмм" id="b62b0e70-790b-4b14-af28-bd654cc8d7fd" configVersion="ffb7972de0a9cb40b260f68e0d6bb38a00000000"/>
+		<Metadata name="CommonModule.Телеграмм.Module" id="b62b0e70-790b-4b14-af28-bd654cc8d7fd.0" configVersion="9e7f3a08f8caa149be6424fa0d80ee4300000000"/>
 		<Metadata name="Configuration.Конфигурация" id="4cc73af6-d28a-4642-a5d0-7557ce4bb66f" configVersion="30c9d44dd213d948aafd45b1394d14fb00000000"/>
 		<Metadata name="Constant.АйдиПоследнегоСообщения" id="177ffdb9-69ad-49fb-a19f-16ece5b05548" configVersion="c731d844b1f8c841a6b1549b0841c84a00000000"/>
 		<Metadata name="Constant.ДатаИмененей" id="3d389761-5607-4413-bb67-d940ba90bb81" configVersion="9dde4d20c26b2240b64929896a1fd03d00000000"/>
