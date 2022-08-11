@@ -213,6 +213,7 @@
 			<Subsystem>Основная</Subsystem>
 			<Subsystem>ДушнилыЕбаные</Subsystem>
 			<Role>Админ</Role>
+			<CommonTemplate>Макет</CommonTemplate>
 			<CommonModule>Телеграмм</CommonModule>
 			<CommonModule>JSON</CommonModule>
 			<ScheduledJob>ВыслатьИнфоВТелеграмм</ScheduledJob>
@@ -240,6 +241,8 @@
 			<InformationRegister>ИдентификаторыЧатов</InformationRegister>
 			<InformationRegister>Шутки</InformationRegister>
 			<InformationRegister>ТегиВаннессы</InformationRegister>
+			<InformationRegister>Приветствия</InformationRegister>
+			<InformationRegister>КомандыВанессы</InformationRegister>
 			<AccumulationRegister>ОстаткиПоДушнилам</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
