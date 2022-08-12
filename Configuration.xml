@@ -243,6 +243,7 @@
 			<InformationRegister>ТегиВаннессы</InformationRegister>
 			<InformationRegister>Приветствия</InformationRegister>
 			<InformationRegister>КомандыВанессы</InformationRegister>
+			<InformationRegister>ШарСудьбы</InformationRegister>
 			<AccumulationRegister>ОстаткиПоДушнилам</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
