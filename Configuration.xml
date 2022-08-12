@@ -229,6 +229,7 @@
 			<Constant>АйдиПоследнегоСообщения</Constant>
 			<Constant>АдресAPIНовостей</Constant>
 			<Constant>ЛицоВанеессы</Constant>
+			<Constant>АдресAPIШутка</Constant>
 			<CommonForm>ФормаКонстант</CommonForm>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>ВидНоменклатуры</Catalog>

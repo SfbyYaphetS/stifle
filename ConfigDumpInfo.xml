@@ -23,12 +23,13 @@
 		<Metadata name="CommonForm.ФормаКонстант" id="fbc75743-8135-4baf-8fb7-043a6661804b" configVersion="a3bbde82e3a70b4ca8bfa20bb1f14ba600000000"/>
 		<Metadata name="CommonForm.ФормаКонстант.Form" id="fbc75743-8135-4baf-8fb7-043a6661804b.0" configVersion="4c5ce21d51bf494998e31b848822125d00000000"/>
 		<Metadata name="CommonModule.JSON" id="00d4b7c5-a405-4eeb-8d69-b61645b91937" configVersion="3efdb7f9185b2c4ab2a5106178a8bf2700000000"/>
-		<Metadata name="CommonModule.Телеграмм" id="b62b0e70-790b-4b14-af28-bd654cc8d7fd" configVersion="6cd46b1722e782428516bb4a65fbd35e00000000"/>
-		<Metadata name="CommonModule.Телеграмм.Module" id="b62b0e70-790b-4b14-af28-bd654cc8d7fd.0" configVersion="9ae83d4de7c1b948b7ce719942849dd000000000"/>
+		<Metadata name="CommonModule.Телеграмм" id="b62b0e70-790b-4b14-af28-bd654cc8d7fd" configVersion="a6b3fb1426c5ff429574a682eff3c81200000000"/>
+		<Metadata name="CommonModule.Телеграмм.Module" id="b62b0e70-790b-4b14-af28-bd654cc8d7fd.0" configVersion="b6ba0476c01c624eb9c97dfd2142dfd500000000"/>
 		<Metadata name="CommonTemplate.Макет" id="cb3596b3-ac5c-48c4-840b-51be72eccd53" configVersion="740103b9c4314846a8c66a47454fc26300000000"/>
 		<Metadata name="CommonTemplate.Макет.Template" id="cb3596b3-ac5c-48c4-840b-51be72eccd53.0" configVersion="88294afccde48344abf3c5216087486700000000"/>
-		<Metadata name="Configuration.Конфигурация" id="4cc73af6-d28a-4642-a5d0-7557ce4bb66f" configVersion="d3e20a6e91eecd46aca8c1d0d668e75600000000"/>
+		<Metadata name="Configuration.Конфигурация" id="4cc73af6-d28a-4642-a5d0-7557ce4bb66f" configVersion="f2b6b6ff96b0ab408a404569e0c609c100000000"/>
 		<Metadata name="Constant.АдресAPIНовостей" id="676d8763-e86e-4057-927a-e820d9706b61" configVersion="2ce90bcccede0f44a3aea492ef58116e00000000"/>
+		<Metadata name="Constant.АдресAPIШутка" id="ade81dbd-75b4-4d93-8ec8-5148f25f1401" configVersion="4b530a619f9fc1418391b9ead275bd4300000000"/>
 		<Metadata name="Constant.АйдиПоследнегоСообщения" id="177ffdb9-69ad-49fb-a19f-16ece5b05548" configVersion="488d06d4232df347ba2d2ce904093e0300000000"/>
 		<Metadata name="Constant.ДатаИмененей" id="3d389761-5607-4413-bb67-d940ba90bb81" configVersion="0d78d55d0006694eb3b96cb57d6f7ab000000000"/>
 		<Metadata name="Constant.ИдентификаторГлавнойГруппы" id="f280dab8-0c22-4854-9aa7-58b884096e81" configVersion="11774830a4ab15478a62ea59ad7e1f8800000000"/>
