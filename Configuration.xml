@@ -228,6 +228,7 @@
 			<Constant>ИдентификаторГлавнойГруппы</Constant>
 			<Constant>АйдиПоследнегоСообщения</Constant>
 			<Constant>АдресAPIНовостей</Constant>
+			<Constant>ЛицоВанеессы</Constant>
 			<CommonForm>ФормаКонстант</CommonForm>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>ВидНоменклатуры</Catalog>
