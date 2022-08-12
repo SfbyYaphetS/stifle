@@ -2,11 +2,13 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.14">
 	<ConfigVersions>
 		<Metadata name="AccumulationRegister.ОстаткиПоДушнилам" id="df5aa2af-156d-4740-a321-cd0369a6c82c" configVersion="106ae8c31d5aed40b8d170c42b35d23900000000">
+
 			<Metadata name="AccumulationRegister.ОстаткиПоДушнилам.Attribute.Комментарий" id="0cecd5ee-6041-486c-9ad2-58af3fffdfea"/>
 			<Metadata name="AccumulationRegister.ОстаткиПоДушнилам.Resource.Балл" id="12f59c44-bb25-4e44-9c31-8b1490e0a80c"/>
 			<Metadata name="AccumulationRegister.ОстаткиПоДушнилам.Dimension.Свойство" id="33329f6b-584d-4975-a430-dfa1804749ce"/>
 			<Metadata name="AccumulationRegister.ОстаткиПоДушнилам.Dimension.ФизЛицо" id="5bb2df20-b56d-44f5-a086-c1394e8003aa"/>
 		</Metadata>
+
 		<Metadata name="Catalog.ВидНоменклатуры" id="decfe141-d236-4c61-90ab-b01d9898618e" configVersion="40549633d450cf428d0c324a349be14900000000"/>
 		<Metadata name="Catalog.Номенклатура" id="6d168be5-712d-4acd-b6be-a36891fdb0df" configVersion="48c65db13ee71b498f4ab4dd8cfdfa7f00000000">
 			<Metadata name="Catalog.Номенклатура.Attribute.НаимнованиеПолное" id="2e2bcd3f-f06d-42b0-a172-32647e3ea82c"/>
@@ -43,25 +45,31 @@
 			<Metadata name="Document.ДобавитьБаллы.TabularSection.НачислениеБаллов" id="9af38a8a-06f6-4607-a8b7-0befb9a883b9"/>
 			<Metadata name="Document.ДобавитьБаллы.TabularSection.НачислениеБаллов.Attribute.ФизЛицо" id="f806185d-416e-4a02-9ed8-f3a1efe78cbc"/>
 		</Metadata>
+
 		<Metadata name="Document.ДобавитьБаллы.Form.ФормаДокумента" id="0971c0d7-2f54-49dd-b370-f47554e94515" configVersion="43e5737e92cd884782b15e4a3914081600000000"/>
 		<Metadata name="Document.ДобавитьБаллы.Form.ФормаДокумента.Form" id="0971c0d7-2f54-49dd-b370-f47554e94515.0" configVersion="91217c46ca31614684c2f95d045cd97900000000"/>
 		<Metadata name="Document.ДобавитьБаллы.ObjectModule" id="730065f3-58c9-44a3-a4aa-541c20c6d465.0" configVersion="7342cdd9610a9f4ca9f29865df783c2900000000"/>
 		<Metadata name="Document.СписаниеБаллов" id="c0385528-8780-4a89-8d74-b7d8e9180f90" configVersion="344b5d12113ad343a44f0a3f464f587800000000">
+
 			<Metadata name="Document.СписаниеБаллов.TabularSection.НачислениеБаллов.Attribute.ФизЛицо" id="0f83940e-df00-4ccc-a070-ef8db461a995"/>
 			<Metadata name="Document.СписаниеБаллов.Attribute.Комментарий" id="368c7131-ee52-487e-84ae-ca151ef3261d"/>
 			<Metadata name="Document.СписаниеБаллов.TabularSection.НачислениеБаллов.Attribute.Свойство" id="4485e146-61f7-468e-a50e-39e4af0760ea"/>
 			<Metadata name="Document.СписаниеБаллов.TabularSection.НачислениеБаллов.Attribute.Балл" id="572726c7-ab0e-4e74-8ed5-396ffb9bdc3b"/>
 			<Metadata name="Document.СписаниеБаллов.TabularSection.НачислениеБаллов" id="d2e9de60-5b64-41ba-a837-31302dc051be"/>
 		</Metadata>
-		<Metadata name="Document.СписаниеБаллов.Form.ФормаДокумента" id="96899746-be9a-424c-acdf-b02933264622" configVersion="83c4f65af6900e45b1b8b1a5411dea4900000000"/>
-		<Metadata name="Document.СписаниеБаллов.Form.ФормаДокумента.Form" id="96899746-be9a-424c-acdf-b02933264622.0" configVersion="77b425d5f8fec345a12e2edfbd5dc3c100000000"/>
-		<Metadata name="Document.СписаниеБаллов.ObjectModule" id="c0385528-8780-4a89-8d74-b7d8e9180f90.0" configVersion="faeca25a989e5e49aae69fd6740dea2d00000000"/>
-		<Metadata name="Enum.Пол" id="6cb8cbb3-61c1-4749-9c10-83892f120592" configVersion="757091556634614b910b12e4b09752cc00000000">
+
+		<Metadata name="Document.СписаниеБаллов.Form.ФормаДокумента" id="96899746-be9a-424c-acdf-b02933264622" configVersion="c4448a59d173f94494a6b533efcb47bd00000000"/>
+		<Metadata name="Document.СписаниеБаллов.Form.ФормаДокумента.Form" id="96899746-be9a-424c-acdf-b02933264622.0" configVersion="11b40cde636cd645b488428db51c9d0a00000000"/>
+		<Metadata name="Document.СписаниеБаллов.ObjectModule" id="c0385528-8780-4a89-8d74-b7d8e9180f90.0" configVersion="e3caef8264d2a249b3634ca0cb17e04500000000"/>
+		<Metadata name="Enum.Пол" id="6cb8cbb3-61c1-4749-9c10-83892f120592" configVersion="dc58c29b3e79a944a3e01e43799add0000000000">
+
 			<Metadata name="Enum.Пол.EnumValue.Мужской" id="007c6399-e5dc-4dd9-9ff9-b534b50fdac1"/>
 			<Metadata name="Enum.Пол.EnumValue.Они" id="6c1b2356-c397-471f-9b3e-fab8f40afb1a"/>
 			<Metadata name="Enum.Пол.EnumValue.Женский" id="db7ff300-68ba-4940-9add-66173626d377"/>
 		</Metadata>
+
 		<Metadata name="InformationRegister.ДанныеДляТестирования" id="1554395d-8ba7-4dc2-bf2e-00f4474e8ce8" configVersion="858e1d17f228bc4bb94ea3dfa18b8b8d00000000">
+
 			<Metadata name="InformationRegister.ДанныеДляТестирования.Dimension.Номенклатура" id="58bb199a-320a-4ca8-8799-83f911160cce"/>
 			<Metadata name="InformationRegister.ДанныеДляТестирования.Resource.Сумма" id="a763262c-da61-44f0-b8a5-30419bb02db4"/>
 			<Metadata name="InformationRegister.ДанныеДляТестирования.Dimension.Количество" id="bb50cca3-49de-4fb2-a7a3-7e3baa7ea50b"/>
@@ -101,5 +109,6 @@
 		<Metadata name="ScheduledJob.ПрочитатьПоследниеСообщения.Schedule" id="d01dc70d-98b4-4d27-9da1-5e83dd8c74ee.0" configVersion="d917ca95faa0704b89ce0fa049763c1100000000"/>
 		<Metadata name="Subsystem.ДушнилыЕбаные" id="5326bb56-9ecf-4b5d-b1b6-3985a3c5fbc5" configVersion="20b3d89be36cf74da3ab7c588b8036a000000000"/>
 		<Metadata name="Subsystem.Основная" id="414323c7-5e6b-4005-995e-1a0550fd7942" configVersion="a2195818b12c7047a03186e6ca0670b900000000"/>
+
 	</ConfigVersions>
 </ConfigDumpInfo>
