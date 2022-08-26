@@ -227,6 +227,11 @@
 			<Constant>ДатаИмененей</Constant>
 			<Constant>ИдентификаторГлавнойГруппы</Constant>
 			<Constant>АйдиПоследнегоСообщения</Constant>
+			<Constant>АдресAPIНовостей</Constant>
+			<Constant>ЛицоВанеессы</Constant>
+			<Constant>АдресAPIШутка</Constant>
+			<Constant>АдресСервиса</Constant>
+			<Constant>ПутьХраненияСообщения</Constant>
 			<CommonForm>ФормаКонстант</CommonForm>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>ВидНоменклатуры</Catalog>
